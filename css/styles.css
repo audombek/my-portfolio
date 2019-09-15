@@ -12,21 +12,34 @@ header{
      background-color: darkolivegreen;
      padding: 0px;
      margin:20px;
+     width:240px;
      float: left;
-     width: 120px;
-     }
-    .header img{
+     
+}
+    
+
+.header img{
         border-radius: 200%;
         width:240px;
-    }
-    .sidebar nav ul li{
-        display:inline-block;
-    }
-    
-    .floating{
+    }.floating{
         clear: both;
     }
-  
+.home{
+    margin: 40px;
+}  
+.about{
+    margin:40px;
+}
+.projects{
+    margin: 40px;
+}
+.contact{
+    margin: 40px;
+}
+footer{
+    margin: 0px;
+    background-color: gray
+}
      
  
  
