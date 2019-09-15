@@ -13,6 +13,8 @@ It also some two projects that i have done while at moringa school,which are:
 2. cookie-recipe. 
 ### Link to my-website
 [My-Portfolio](https://audombek.github.io/my-portfolio/)
+### License and Copyrights.
+
 
 
 
