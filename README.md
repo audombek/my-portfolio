@@ -14,6 +14,9 @@ It also some two projects that i have done while at moringa school,which are:
 ### Link to my-website
 [My-Portfolio](https://audombek.github.io/my-portfolio/)
 ### License and Copyrights.
+Copyright (c) 2019 Audrey Ombek.
+
+Licensed under the [MIT License](LICENSE)
 
 
 
