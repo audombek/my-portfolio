@@ -20,6 +20,9 @@ header{
      float: left;
      
 }
+ .navbar ul li a {
+    text-decoration: none;
+}
     
 
 .header img{
@@ -39,13 +42,19 @@ header{
         clear: both;
     }
 .home{
-    margin: 40px;
+    margin: 200px;
+    width: 400px;
+}
+.home h1{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
 }  
 .about{
-    margin:40px;
+    margin:200px;
 }
 .projects{
-    margin: 40px;
+    margin: 100px;
 }
 .contact{
     margin: 40px;
